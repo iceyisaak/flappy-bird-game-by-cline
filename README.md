@@ -2,6 +2,8 @@
 
 A classic Flappy Bird game with an 8-bit retro aesthetic, built with HTML5 Canvas, CSS, and JavaScript.
 
+Created using [Cline](https://github.com/cline/cline).
+
 ## Features
 
 - **8-bit Retro Graphics**: Pixelated bird and pipes with a classic green-on-black terminal aesthetic
